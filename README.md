@@ -151,17 +151,15 @@ jupyter
 - Wrap the model in a simple Streamlit app for live predictions
 - Save the trained pipeline with `joblib` for easy deployment
 
-## ⚠️ Disclaimer
 
-This is a learning and portfolio project. The model is **not a diagnostic tool** and must not be used for medical or clinical decisions. If you or someone you know is struggling with mental health, please reach out to a qualified professional.
 
 ## 👤 Author
 
-**[Your Name]**: Student at AIUB | Aspiring AI Engineer
+**[Md Shahadat Ismail Shanto]**: Student at AIUB | Aspiring AI Engineer
 
-- 💼 LinkedIn: [your-linkedin-url]
+- 💼 LinkedIn: [www.linkedin.com/in/md-shahadat-ismail-shanto]
 - 🐙 GitHub: [your-github-url]
-- 📧 Email: [your-email]
+- 📧 Email: [mhislamsahel@gmail.com]
 
 ---
 
