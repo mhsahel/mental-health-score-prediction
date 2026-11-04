@@ -123,14 +123,14 @@ mindscore-ml/
 ## 🚀 How to Run
 
 ```bash
-# 1. Clone the repository
+
 git clone https://github.com/<your-username>/mindscore-ml.git
 cd mindscore-ml
 
-# 2. Install dependencies
+
 pip install -r requirements.txt
 
-# 3. Launch the notebook
+
 jupyter notebook notebooks/mental_health_score_model.ipynb
 ```
 
