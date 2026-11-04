@@ -158,7 +158,7 @@ jupyter
 **[Md Shahadat Ismail Shanto]**: Student at AIUB | Aspiring AI Engineer
 
 - 💼 LinkedIn: [www.linkedin.com/in/md-shahadat-ismail-shanto]
-- 🐙 GitHub: [your-github-url]
+- 🐙 GitHub: [https://github.com/mhsahel]
 - 📧 Email: [mhislamsahel@gmail.com]
 
 ---
